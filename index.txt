@@ -1,3 +1,7 @@
 juhhvfhfbfvbvflodajcjkc
+<<<<<<< HEAD
 kk
 
+=======
+jjsdf
+>>>>>>> f0b36c9 (first commit)
